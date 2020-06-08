@@ -1,0 +1,46 @@
+nav {
+  display: flex;
+}
+
+nav div {
+  position: absolute;
+  left: 86%;
+  top: 3%;
+}
+
+nav div .btu {
+  margin-right: 12px;
+  background-color: transparent;
+  color: white;
+  padding: 5px 16px;
+  cursor: pointer;
+  border: none;
+}
+
+.btu:hover {
+  background-color: white;
+  color: black;
+  border-radius: 35px;
+  border: 2px solid white;
+}
+
+nav div .but {
+  background-color: transparent;
+  color: white;
+  padding: 5px 16px;
+  cursor: pointer;
+  border: none;
+}
+
+.but:hover {
+  background-color: white;
+  color: black;
+  border-radius: 35px;
+  border: 2px solid white;
+}
+
+h2 {
+  margin-top: 2%;
+  margin-left: 5%;
+  color: white;
+}

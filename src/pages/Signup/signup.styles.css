@@ -1,0 +1,15 @@
+.edit {
+    margin-top: 3rem;
+    margin-left: 37rem;
+}
+
+.imgg {
+
+    display: block;
+    margin: 0px 0px;
+    margin-left: 15vw;
+    background: url('picture.jpg');
+    background-repeat: no-repeat;
+    background-size: 70%;
+    height: 100%;
+}

@@ -1,0 +1,47 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 28vh;
+    flex-direction: column;
+    color: white;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    margin-top: -3rem;
+}
+
+h2{
+
+}
+
+.img {
+ background: url('bg.jpg');
+ background-repeat: no-repeat;
+ background-size: cover;
+    
+}
+
+div section{
+    display: block;
+    margin: 2rem 10rem;
+}
+
+.footer {
+background-color: rgba(0, 0, 0, 0.63);
+width: 100%;
+height: 30%;
+text-align: center;
+padding-top: 6rem;
+padding-bottom: 2rem;
+}
+
+footer h3{
+    color: white;
+}
+
+footer p {
+    color: white;
+}
