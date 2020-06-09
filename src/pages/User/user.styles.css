@@ -1,0 +1,31 @@
+nav {
+  display: flex;
+}
+
+nav div {
+  position: absolute;
+  left: 86%;
+  top: 3%;
+}
+
+nav div .btuu {
+  margin-right: 12px;
+  background-color: transparent;
+  color: black;
+  padding: 5px 16px;
+  cursor: pointer;
+  border-radius: 35px;
+  border: 2px solid grey;
+}
+
+.btuu:hover {
+  border: 3px solid grey;
+}
+
+.h2 {
+  position: absolute;
+  top: 0%;
+  left: 2%;
+  color: grey;
+  font-weight: bold;
+}

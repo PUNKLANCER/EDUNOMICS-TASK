@@ -8,7 +8,7 @@ const Navigation = () => (
     <nav className='nav'>
         <h2>Welcome To Edunomics</h2>
         <div>
-        <Link to='#'>
+        <Link to='/login'>
         <button className='btu'>LOGIN</button>
         </Link>
         <Link to='/signup'>
